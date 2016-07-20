@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 19%;
+	padding: 10px;
+	border: #EA7D50 2px solid;
+}
+h3{
+	padding: 10px 10px 20px 5px;
+	font-size: 20px;
+}
+p{
+	padding: 10px 0px 20px 5px;
+	font-size: 18px;
+}
